@@ -1,0 +1,27 @@
+{
+  "name": "uxcore-const",
+  "version": "0.0.1",
+  "description": "uxcore-const component for uxcore.",
+  "repository": "https://github.com/uxcore/uxcore-const.git",
+  "author": "zhouquan.yezq",
+  "main": "src/index.js",
+  "scripts": {
+  },
+  "bugs": {
+    "url": "http://github.com/uxcore/uxcore-const/issues"
+  },
+  "keywords": [
+    "react",
+    "react-component",
+    "uxcore-const",
+    "Const",
+    "const"
+  ],
+  "devDependencies": {
+  },
+  "dependencies": {
+    "react": "^0.13.3"
+  },
+  "contributors": [],
+  "license": "MIT"
+}
