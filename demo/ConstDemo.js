@@ -6,9 +6,9 @@
  * All rights reserved.
  */
 
-let classnames = require('classnames');
-
 let Const = require('../src');
+
+window.Const = Const;
 
 class Demo extends React.Component {
 
@@ -21,7 +21,6 @@ class Demo extends React.Component {
     render() {
         return (
             <div>
-                <Const/>
             </div>
         );
     }
