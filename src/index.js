@@ -6,4 +6,4 @@
  * All rights reserved.
  */
 
-module.exports = require('./Const');
+export default from './Const';
