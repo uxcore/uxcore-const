@@ -6,15 +6,15 @@
  * All rights reserved.
  */
 
-var Const= {
+const Const = {
   MODE: {
     VIEW: 'view',
-    EDIT: 'edit'
+    EDIT: 'edit',
   },
-  ENV : {
+  ENV: {
     DEBUG: 'debug',
-    LIVE: 'live'
-  }
-}
+    LIVE: 'live',
+  },
+};
 
-module.exports = Const;
+export default Const;
